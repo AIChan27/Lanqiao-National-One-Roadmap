@@ -1,26 +1,21 @@
+// 排序 + 二分查找
 #include <iostream>
+#include <algorithm>
 using namespace std;
 int sub[200001];
 int main()
 {
-    int N, C, a, ai = 1, num = 0;
-    // freopen("./Datain/P1102.datain", "r", stdin);
+    int N, C;
+    long long num = 0;
+    freopen("./Datain/P1102.datain", "r", stdin);
     cin >> N >> C;
     for (int i = 0; i < N; i++)
-    {
-        cin >> a;
-        sub[a]++;
-    }
+        cin >> sub[i];
+    sort(sub, sub + N);
+    int i = 0;
     while (N > 1)
     {
-        while (sub[ai] == 0)
-            ai++;
-        N -= sub[ai];
-        if (sub[ai + C] != 0)
-        {
-            num += sub[ai];
-            ai++;
-        }
+        int B = C - sub[i];
     }
     cout << num << endl;
     return 0;

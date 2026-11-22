@@ -6,7 +6,7 @@
 
 👉 **[点击这里查看每日打卡记录及复盘 (Daily-Log.md)](./Daily-Log.md)**
 
-👉 **[点击这里查看做题笔记 (Daily-Log.md)](./Problem-Solving-Notes.md)**
+👉 **[点击这里查看做题笔记 (Problem-Solving-Notes.md)](./Problem-Solving-Notes.md)**
 
 ---
 

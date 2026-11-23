@@ -1,4 +1,3 @@
-// 排序 + 二分查找
 #include <iostream>
 #include <algorithm>
 using namespace std;

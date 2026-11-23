@@ -1,9 +1,8 @@
-// 排序 + 二分查找
 #include <iostream>
 #include <algorithm>
 using namespace std;
 const int MAXN = 200005;
-int a[MAXN]; // 替代 sub，命名更清晰
+int a[MAXN]; 
 int main()
 {
     int N, C;

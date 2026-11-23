@@ -9,3 +9,11 @@
    * 如果题目只要求“找对数”或“找是否存在” \(\rightarrow\) **优先排序 + 二分/双指针**（极其稳定）。
    * 如果要求快速统计频次且有多种复杂操作 \(\rightarrow\) 用 `unordered_map`（记得加防卡代码）。
    * 如果只是想快速写出来且不卡时间 \(\rightarrow\) 用 `map`。
+
+## 算法基础-排序：`std::sort`
+
+📖 **[点击这里查看C++ `std::sort` 用法整理 (sort.md)](./Algorithm-Notes/算法基础/排序/sort.md)**
+
+## 算法基础-二分：二分查找
+
+📖 **[点击这里查看C++ 二分查找库函数用法整理 (binary_search.md)](./Algorithm-Notes/算法基础/二分/binary_search.md)**

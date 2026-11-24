@@ -17,3 +17,18 @@
 ## 算法基础-二分：二分查找
 
 📖 **[点击这里查看C++ 二分查找库函数用法整理 (binary_search.md)](./Algorithm-Notes/算法基础/二分/binary_search.md)**
+
+## C++中，无穷大与无穷小模板：
+
+1. `0x3f3f3f3f` 
+2. 它刚好大于绝大多数题目中的值域上限
+3. 两个 `0x3f3f3f3f` 相加等于 `0x7e7e7e7e`，依然小于 `int` 的最大值 `0x7fffffff`。
+```C++
+const int INF = 0x3f3f3f3f; // 约 10 亿
+
+int min_val = INF;          // 求最小值
+int max_val = -INF;         // 求最大值
+
+// 如果是 long long 类型：
+const long long INF_LL = 0x3f3f3f3f3f3f3f3fLL; // 约 4e18
+```

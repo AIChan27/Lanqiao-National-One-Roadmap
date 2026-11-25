@@ -1,5 +1,3 @@
-- [P1571 眼红的 Medusa](https://www.luogu.com.cn/problem/P1571)
-- [P1614 爱与愁的心痛](https://www.luogu.com.cn/problem/P1614)
 - [P1678 烦恼的高考志愿](https://www.luogu.com.cn/problem/P1678)
 - [P2777 [AHOI2016初中组] 自行车比赛](https://www.luogu.com.cn/problem/P2777)
 - [P3056 [USACO12NOV] Clumsy Cows S](https://www.luogu.com.cn/problem/P3056)

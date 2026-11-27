@@ -1,4 +1,3 @@
-- [P3056 [USACO12NOV] Clumsy Cows S](https://www.luogu.com.cn/problem/P3056)
 - [P3184 [USACO16DEC] Counting Haybales S](https://www.luogu.com.cn/problem/P3184)
 - [P11375 [GESP202412 六级] 树上游走](https://www.luogu.com.cn/problem/P11375)
 - [P15799 [GESP202603 五级] 找数](https://www.luogu.com.cn/problem/P15799)

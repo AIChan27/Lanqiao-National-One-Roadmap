@@ -87,6 +87,3 @@ using NodeAlias = Node; // 推荐
 - 1. struct：成员默认是 public（公开的）。
 - 2. class：成员默认是 private（私有的）。
 - 竞赛场景：90% 以上的情况用 struct，因为我们只需把数据打包在一起快速访问，不需要企业级开发那种面向对象的封装。
-
-
-```

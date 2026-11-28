@@ -10,7 +10,7 @@
 ---
 
 ## W0 · ① 排序 / 自定义比较（11/27–11/30，2 题 + 1 选做）
-- [🚂] [P1012](https://www.luogu.com.cn/problem/P1012) 拼数 [学]
+- [ 🚂 ] [P1012](https://www.luogu.com.cn/problem/P1012) 拼数 [学]
 - [ ] [P1093](https://www.luogu.com.cn/problem/P1093) 奖学金 [验]
 - [ ] [P1104](https://www.luogu.com.cn/problem/P1104) 生日 [迁]（选做）
 

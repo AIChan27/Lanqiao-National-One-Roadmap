@@ -2,10 +2,12 @@
 #include <string>
 #include <stack>
 #include <algorithm>
+
 using namespace std;
+
 const int MAXN = 300005;
 int a[MAXN];
-using namespace std;
+
 int main()
 {
     freopen("../Datain/filename.datain", "r", stdin);

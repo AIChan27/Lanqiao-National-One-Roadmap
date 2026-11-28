@@ -93,10 +93,6 @@
 ---
 
 ## 机动 / 补题（哪个单元没通关，从这里补；也可替换选做题）
-- [ ] [P1102](https://www.luogu.com.cn/problem/P1102) A-B 数对 [二分复习]
-- [ ] [P1678](https://www.luogu.com.cn/problem/P1678) 烦恼的高考志愿 [二分复习]
-- [ ] [P3056](https://www.luogu.com.cn/problem/P3056) Clumsy Cows S [栈复习]
-- [ ] [P3184](https://www.luogu.com.cn/problem/P3184) Counting Haybales S [二分复习]
 - [ ] [P2615](https://www.luogu.com.cn/problem/P2615) 神奇的幻方 [模拟]
 - [ ] [P2670](https://www.luogu.com.cn/problem/P2670) 扫雷游戏 [模拟/网格]
 - [ ] [P1098](https://www.luogu.com.cn/problem/P1098) 字符串的展开 [大模拟]

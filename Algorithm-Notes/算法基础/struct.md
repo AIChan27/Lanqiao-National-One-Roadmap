@@ -84,6 +84,6 @@ using NodeAlias = Node; // 推荐
 
 ## 4. 结构体 (struct) vs 类 (class)
 - 两者在 C++ 中极度相似，几乎只有一点区别：
-- 1. struct：成员默认是 public（公开的）。
-- 2. class：成员默认是 private（私有的）。
+    - 1. struct：成员默认是 public（公开的）。
+    - 2. class：成员默认是 private（私有的）。
 - 竞赛场景：90% 以上的情况用 struct，因为我们只需把数据打包在一起快速访问，不需要企业级开发那种面向对象的封装。
